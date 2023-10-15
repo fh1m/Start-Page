@@ -1,5 +1,6 @@
 # Start-Page
 My custom start page for browser. Inspired from [Tilde Enhanced](https://github.com/ozencb/tilde-enhanced).
-[preview](https://cdn.discordapp.com/attachments/1035242134049132574/1163013346056994867/15-10-2023_131903.png?ex=653e0795&is=652b9295&hm=d3ef63a9445ea71dae24d3428905399908f0bc101098989532e48e7a687b761f&)
 
-[preview 2](https://cdn.discordapp.com/attachments/1035242134049132574/1163013346056994867/15-10-2023_131903.png?ex=653e0795&is=652b9295&hm=d3ef63a9445ea71dae24d3428905399908f0bc101098989532e48e7a687b761f&)
+![15-10-2023 13:19:03](https://github.com/fh1m/Start-Page/assets/132839265/10522bce-397e-429f-80ab-73e8ace7c69c)
+
+![15-10-2023 13:19:20](https://github.com/fh1m/Start-Page/assets/132839265/5c3e1ea9-ab79-44f1-8f02-fbdefd149205)
